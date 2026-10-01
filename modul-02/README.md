@@ -10,8 +10,8 @@
 > Membuat program untuk mencari dan menampilkan faktor-faktor dari suatu bilangan
 
 ## 2. Mathematical Equation
-> N \bmod i = 0
-> 1 \leq i \leq N
+> $$ N \bmod i = 0 $$
+> $$ 1 \leq i \leq N $$
 
 ## 3. Algorithm
 > 1. Mulai.
