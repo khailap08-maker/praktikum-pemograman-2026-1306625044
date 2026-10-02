@@ -15,7 +15,7 @@
    b. Deret Mclaurin untuk cos :
    $$\cos(x)=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\cdots$$
    c. Rumus Relativ Error (Er)
-   $$ \text{Relative Error} = \left|\frac{AV-TV}{TV}\right|\times 100\% $$
+   $$\text{Relative Error} = \left|\frac{AV-TV}{TV}\right|\times 100\%$$
    
 ## 3. Algorithm
 > Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
